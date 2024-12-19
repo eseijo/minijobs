@@ -1,5 +1,7 @@
 # Mini jobs API
 
+This a technical test to apply for a Senior Backend Engineer job at [TheirStack](https://www.theirstack.com/). If you are reading this, you are a candidate. Fork this repository and implement the [test requirements](./test-requirements.md).
+
 ## Database
 
 ### Docker Setup

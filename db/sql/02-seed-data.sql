@@ -1,6 +1,6 @@
 -- Create a user
 INSERT INTO
-    users (email, token)
+    users (email, api_key)
 VALUES
     ('test@example.com', 'abc123token') RETURNING id;
 

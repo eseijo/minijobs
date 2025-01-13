@@ -12,7 +12,7 @@ Authentication is not required for this test. Identify the user in the database 
 
 ### Filters
 
-The request body must accept at leastthe following filters:
+The request body must accept at least the following filters:
 
 - `job_country_code`: Filter jobs based on the country code.
 - `job_title`: Filter jobs based on the job title.
